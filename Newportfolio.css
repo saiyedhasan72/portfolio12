@@ -1,0 +1,87 @@
+
+  
+
+
+
+
+
+#Education{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#edu-co #edu h1{
+    font-size: 80px;
+}
+
+#Education #edu1{
+    height: 100%;
+    font-size: 60px;
+    width: 100%;
+}
+
+#edu .year{
+    color: #8e44ad;
+}
+
+
+#edu h2{
+    font-size: 30px;
+    font-weight: 300;
+
+}
+
+
+
+#edu{
+    font-size: 30px;
+    margin-top: 50px;
+    border: 10px solid #a85c9c;
+    padding: 20px 30px 20px 30px ;
+    margin-right: 90px;
+}
+
+
+
+#Hobbies{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+#Hobbies #Hob{
+    height: 100%;
+    width: 40%;
+}
+
+
+#Hob{
+    font-size: 30px;
+    margin-top: 50px;
+    border: 10px solid #a85c9c;
+    padding: 20px 30px 20px 30px ;
+    margin-right: 90px;
+}
+
+#Hob1{
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

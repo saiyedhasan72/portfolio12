@@ -1,0 +1,42 @@
+#about-section{
+    margin-top: 170px;   
+    display: flex;
+}
+
+#about-section #section2 img{
+    height: 100%;
+    width: 450px;
+    background-color: #000000;
+    margin:0 auto 60px;
+    margin-left: 60px;
+}
+
+#about-co #about-info h1{
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+#about-co{
+    margin-left: 70px;
+}
+#about-co #about-info .p{
+    color: #e24b6e;
+    font-size: 40px;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+#about-co #about-info p{
+    letter-spacing: 4px;
+    font-size: 30px;
+    line-height: 70px;
+    margin-bottom: 40px;
+}
+
+#about-con button {
+    background-color:#e24b6e;
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}

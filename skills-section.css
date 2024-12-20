@@ -1,0 +1,25 @@
+#Skills{
+    text-align: center;
+    margin-top: 90px;
+}   
+
+#Skills #skill{
+    height: 100%;
+    width: 100%;
+}
+
+
+#skill{
+    font-size: 30px;
+    margin-top: 50px;
+    border: 10px solid #a85c9c;
+    padding: 20px 30px 20px 30px ;
+    margin-right: 90px;
+}
+
+#skill1{
+    font-size: 60px;
+}
+#all-skill #skill p{
+    display: block;
+}
